@@ -1,0 +1,192 @@
+Use trace labs os 
+
+
+Background checks,DOP,Phone numbers, addresses and more
+http://www.boq.gov/inmateloc/
+http://www.nsopw.gov/
+fast people search 
+fast background check
+thatsthem.com
+Truepeoplesearch 
+nuwber.com
+radaris.com
+https://whatismyipaddress.com/ip-lookup
+
+
+Dark web
+https://github.com/josh0xa/darkdump (Used to search for something in .onion links only)
+https://8ch.net/
+Onionlandsearchengine.com
+
+
+
+
+
+
+
+Voting (To collect more infos)
+voterrecords.com 
+voteref.com 
+Blackbooking.com\
+
+Databases breaches and leaks (check if it is legal to do osint on that first in your country)
+
+Have I been pawned (no passwords)
+Dehashed 
+https://intelx.io/ 
+ID finders
+https://lookup-id.com/
+https://commentpicker.com/twitter-id.php
+
+usernnames and social media 
+https://www.idcrawl.com/
+https://whatsmyname.app/
+https://github.com/megadose/toutatis 
+https://snap.storyclone.com/
+https://twitter.com/account/begin_password_reset
+
+Collect partial gmail or phone number of the target
+https://github.com/megadose/toutatis (pip3 install toutatis) 
+
+
+registery osint 
+
+https://www.target.com/registry-kiosk
+https://www.amazon.com/baby-reg/search-results
+https://www.theknot.com/registry/couplesearch
+https://www.amazon.com/wedding/search
+finding the Geographic orgins of a name 
+https://www.familysearch.org/en/united-states/
+https://namsor.app/
+
+gmail osint 
+
+GitHub commits email finder
+https://api.github.com/insertusername/insertusername/commits 
+https://ghintel.secrets.ninja/
+https://emailrep.io/ mail reputation
+https://www.experte.com/email-finder
+https://chromewebstore.google.com/detail/signalhire-find-email-or/aeidadjdhppdffggfgjpanbafaedankd?pli=1 (Find linkedin gmail or phone numbers assossiated with accounts)
+https://twitter.com/account/begin_password_reset (To confirm your findings, Fb also, Instagram also same idea but with a specific way to not notify the user)
+https://chromewebstore.google.com/detail/email-finder-getprospect/bhbcbkonalnjkflmdkdodieehnmmeknp
+https://dehashed.com/ (Used to exploit the findings)
+https://hunter.io/
+https://phonebook.cz/
+https://epieos.com/
+https://castrickclues.com/
+https://www.predictasearch.com/
+https://gravatar.com/site/check
+https://www.osint.industries/
+https://github.com/p1ngul1n0/blackbird
+
+
+
+phone number osint
+
+https://dehashed.com/
+https://www.truepeoplesearch.com/
+https://www.ipqualityscore.com/free-phone-number-lookup
+https://www.comfi.com/abook/reverse
+https://www.numberingplans.com/index.php?page=analysis&sub=phonenr
+https://www.searchyellowdirectory.com/
+https://www.phonevalidator.com/
+https://www.npanxxsource.com/nalennd.php
+https://www.truecaller.com/
+https://sync.me/
+https://www.spydialer.com/
+https://calleridtest.com/
+https://www.unitedstatesphonebook.com/
+https://www.fastbackgroundcheck.com/
+https://www.fastpeoplesearch.com/
+https://thatsthem.com/
+https://nuwber.com/
+https://inteltechniques.com/tools/Telephone.html
+https://epieos.com/
+https://castrickclues.com/
+https://sundowndev.github.io/phoneinfoga/getting-started/install/ deep scanning and footprinting
+
+
+
+Image osint 
+
+https://www.bing.com/
+https://addons.mozilla.org/en-US/firefox/addon/search_by_image/
+https://yandex.com/images/?utm_source=yandex&utm_medium=com&utm_campaign=morda Best for Russians 
+https://tineye.com/ best for logos 
+https://www.numlookup.com/reverse-image-search
+https://search4faces.com/
+https://pimeyes.com/en
+https://gchq.github.io/CyberChef/
+https://facecheck.id/
+https://geospy.ai/ to identify image location 
+
+
+For metadata 
+https://github.com/ianare/exif-samples
+https://www.metadata2go.com/
+https://exif.tools/
+https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/
+
+
+Website osint 
+
+Website owner lookup
+Whois.domainstool
+https://osint.sh/domain/
+https://osint.sh/reversewhois/
+https://osint.sh/subdomain/
+
+Technology lookups 
+https://osint.sh/stack/ 
+https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/ ( Extension)
+https://builtwith.com/
+
+
+Discover subdomain (Also possible through the command line)
+https://osint.sh/subdomain/
+https://crt.sh/
+
+
+Discover websites under the same ownership 
+https://hackertarget.com/reverse-analytics-search/
+https://dnslytics.com/reverse-analytics/
+
+
+Track websites chganges and updates 
+https://archive.org/
+
+
+
+Investigate website files for hidden infos 
+
+https://github.com/ElevenPaths/FOCA
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471
+https://www.microsoft.com/en-us/download/details.aspx?id=26999
+https://www.microsoft.com/en-us/download/details.aspx?id=42299
+Command line runs apt install Subfinder httpprobe 
+ 
+
+
+
+OThers + general 
+
+WPscan(For wordpress sites) (Apt install wpscan)
+It can find 
+Plugins 
+Themes 
+Usernames 
+
+Spiderfoot 
+(apt update) + (apt install spiderfoot)
+Used for automating OSINT in Domains, IP, Hostnames, Network Subnet 
+Not good for user names, Gmails, Phone numbers
+
+Reporting 
+
+https://www.osintracker.com/ (Create a relationship map)
+https://inteltechniques.com/osintbook/
+https://yoga.myosint.training/
+
+
+
+
